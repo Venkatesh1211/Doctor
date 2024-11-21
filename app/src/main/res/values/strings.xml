@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="dont_have_account_signup">Don\'t have an account? Sign up</string>
+    <string name="Username">Username</string>
+    <string name="Login">Login</string>
+    <string name="Book_a_doctor">Book a doctor</string>
+    <string name="Name">Name</string>
+    <string name="Password">password</string>
+    <string name="Phone">phone</string>
+    <string name="Email">Email</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="Sign_Up">SignUP</string>
+    <string name="appointments">Appointments</string>
+    <string name="api_key">AIzaSyDeNXKJCFQ9jTkEExHYLNEvBJ73xzAghBY</string>
+
+</resources>

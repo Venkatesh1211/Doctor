@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74431944062",
+    "project_id": "travel-f9f69",
+    "storage_bucket": "travel-f9f69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74431944062:android:22912ec0b371b81be88f2f",
+        "android_client_info": {
+          "package_name": "com.example.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxHqsPkbKhyVxNIKwNGn3LoeU0e3ubpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74431944062:android:58233659a0835a1ce88f2f",
+        "android_client_info": {
+          "package_name": "com.example.travelitineraryorganizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxHqsPkbKhyVxNIKwNGn3LoeU0e3ubpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
